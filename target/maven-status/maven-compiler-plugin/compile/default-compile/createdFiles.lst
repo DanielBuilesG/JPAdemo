@@ -1,0 +1,4 @@
+com\mycompany\jpademo\Jpademo.class
+com\mycompany\jpademo\CustomerRepository.class
+com\mycompany\jpademo\AccessingDataJpaApplication.class
+com\mycompany\jpademo\Customer.class
